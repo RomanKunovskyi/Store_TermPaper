@@ -1,0 +1,8 @@
+G:\3course\Software\Kursova\Entity\bin\Debug\netcoreapp3.0\Entity.deps.json
+G:\3course\Software\Kursova\Entity\bin\Debug\netcoreapp3.0\Entity.dll
+G:\3course\Software\Kursova\Entity\bin\Debug\netcoreapp3.0\Entity.pdb
+G:\3course\Software\Kursova\Entity\obj\Debug\netcoreapp3.0\Entity.csprojAssemblyReference.cache
+G:\3course\Software\Kursova\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfoInputs.cache
+G:\3course\Software\Kursova\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfo.cs
+G:\3course\Software\Kursova\Entity\obj\Debug\netcoreapp3.0\Entity.dll
+G:\3course\Software\Kursova\Entity\obj\Debug\netcoreapp3.0\Entity.pdb

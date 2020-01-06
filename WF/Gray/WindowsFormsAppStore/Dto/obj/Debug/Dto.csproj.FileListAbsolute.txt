@@ -1,0 +1,10 @@
+G:\3course\Software\WindowsFormsAppStore\Dto\bin\Debug\Dto.dll
+G:\3course\Software\WindowsFormsAppStore\Dto\bin\Debug\Dto.pdb
+G:\3course\Software\WindowsFormsAppStore\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+G:\3course\Software\WindowsFormsAppStore\Dto\obj\Debug\Dto.dll
+G:\3course\Software\WindowsFormsAppStore\Dto\obj\Debug\Dto.pdb
+G:\3course\Software\WF\Gray\WindowsFormsAppStore\Dto\bin\Debug\Dto.dll
+G:\3course\Software\WF\Gray\WindowsFormsAppStore\Dto\bin\Debug\Dto.pdb
+G:\3course\Software\WF\Gray\WindowsFormsAppStore\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+G:\3course\Software\WF\Gray\WindowsFormsAppStore\Dto\obj\Debug\Dto.dll
+G:\3course\Software\WF\Gray\WindowsFormsAppStore\Dto\obj\Debug\Dto.pdb

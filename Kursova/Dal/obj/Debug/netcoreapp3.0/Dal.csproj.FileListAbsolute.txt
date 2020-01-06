@@ -1,0 +1,13 @@
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\Entity.dll
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.csprojAssemblyReference.cache
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.AssemblyInfoInputs.cache
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.AssemblyInfo.cs
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\Dal.deps.json
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\Dal.dll
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\Dal.pdb
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\ConnectionManager.dll
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\ConnectionManager.pdb
+G:\3course\Software\Kursova\Dal\bin\Debug\netcoreapp3.0\Entity.pdb
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.csproj.CopyComplete
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.dll
+G:\3course\Software\Kursova\Dal\obj\Debug\netcoreapp3.0\Dal.pdb

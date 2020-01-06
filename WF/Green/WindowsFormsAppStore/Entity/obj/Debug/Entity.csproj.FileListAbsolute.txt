@@ -1,0 +1,5 @@
+G:\3course\Software\WindowsFormsAppStore\Entity\bin\Debug\Entity.dll
+G:\3course\Software\WindowsFormsAppStore\Entity\bin\Debug\Entity.pdb
+G:\3course\Software\WindowsFormsAppStore\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+G:\3course\Software\WindowsFormsAppStore\Entity\obj\Debug\Entity.dll
+G:\3course\Software\WindowsFormsAppStore\Entity\obj\Debug\Entity.pdb

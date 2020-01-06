@@ -1,0 +1,4 @@
+G:\3course\Software\WindowsFormsAppStore\ConnectionManager\bin\Debug\ConnectionManager.dll
+G:\3course\Software\WindowsFormsAppStore\ConnectionManager\bin\Debug\ConnectionManager.pdb
+G:\3course\Software\WindowsFormsAppStore\ConnectionManager\obj\Debug\ConnectionManager.dll
+G:\3course\Software\WindowsFormsAppStore\ConnectionManager\obj\Debug\ConnectionManager.pdb

@@ -1,0 +1,8 @@
+G:\3course\Software\Kursova\ConnectionManager\bin\Debug\netcoreapp3.0\ConnectionManager.deps.json
+G:\3course\Software\Kursova\ConnectionManager\bin\Debug\netcoreapp3.0\ConnectionManager.dll
+G:\3course\Software\Kursova\ConnectionManager\obj\Debug\netcoreapp3.0\ConnectionManager.csprojAssemblyReference.cache
+G:\3course\Software\Kursova\ConnectionManager\obj\Debug\netcoreapp3.0\ConnectionManager.AssemblyInfoInputs.cache
+G:\3course\Software\Kursova\ConnectionManager\obj\Debug\netcoreapp3.0\ConnectionManager.AssemblyInfo.cs
+G:\3course\Software\Kursova\ConnectionManager\bin\Debug\netcoreapp3.0\ConnectionManager.pdb
+G:\3course\Software\Kursova\ConnectionManager\obj\Debug\netcoreapp3.0\ConnectionManager.dll
+G:\3course\Software\Kursova\ConnectionManager\obj\Debug\netcoreapp3.0\ConnectionManager.pdb

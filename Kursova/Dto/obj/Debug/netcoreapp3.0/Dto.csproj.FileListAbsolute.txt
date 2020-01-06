@@ -1,0 +1,8 @@
+G:\3course\Software\Kursova\Dto\bin\Debug\netcoreapp3.0\Dto.deps.json
+G:\3course\Software\Kursova\Dto\bin\Debug\netcoreapp3.0\Dto.dll
+G:\3course\Software\Kursova\Dto\bin\Debug\netcoreapp3.0\Dto.pdb
+G:\3course\Software\Kursova\Dto\obj\Debug\netcoreapp3.0\Dto.csprojAssemblyReference.cache
+G:\3course\Software\Kursova\Dto\obj\Debug\netcoreapp3.0\Dto.AssemblyInfoInputs.cache
+G:\3course\Software\Kursova\Dto\obj\Debug\netcoreapp3.0\Dto.AssemblyInfo.cs
+G:\3course\Software\Kursova\Dto\obj\Debug\netcoreapp3.0\Dto.dll
+G:\3course\Software\Kursova\Dto\obj\Debug\netcoreapp3.0\Dto.pdb

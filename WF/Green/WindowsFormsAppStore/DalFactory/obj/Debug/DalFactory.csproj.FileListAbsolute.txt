@@ -1,0 +1,12 @@
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\DalFactory.dll
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\DalFactory.pdb
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\Dal.dll
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\Entity.dll
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\ConnectionManager.dll
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\Dal.pdb
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\Entity.pdb
+G:\3course\Software\WindowsFormsAppStore\DalFactory\bin\Debug\ConnectionManager.pdb
+G:\3course\Software\WindowsFormsAppStore\DalFactory\obj\Debug\DalFactory.csprojAssemblyReference.cache
+G:\3course\Software\WindowsFormsAppStore\DalFactory\obj\Debug\DalFactory.csproj.CopyComplete
+G:\3course\Software\WindowsFormsAppStore\DalFactory\obj\Debug\DalFactory.dll
+G:\3course\Software\WindowsFormsAppStore\DalFactory\obj\Debug\DalFactory.pdb

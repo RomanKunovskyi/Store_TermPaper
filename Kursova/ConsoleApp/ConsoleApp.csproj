@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Visitor\Visitor.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleApp">
+      <HintPath>bin\Debug\netcoreapp3.0\ConsoleApp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

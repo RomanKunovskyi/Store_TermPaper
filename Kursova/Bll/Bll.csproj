@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Concrete\AdvertisingBll.cs~RF29c03a8.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DalFactory\DalFactory.csproj" />
+    <ProjectReference Include="..\Dto\Dto.csproj" />
+  </ItemGroup>
+
+</Project>

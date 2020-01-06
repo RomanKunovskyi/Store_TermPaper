@@ -1,0 +1,16 @@
+G:\3course\Software\WindowsFormsAppStore\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Bll.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Bll.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Dal.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\DalFactory.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Dto.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Entity.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\ConnectionManager.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Dal.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\DalFactory.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Dto.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\Entity.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\bin\Debug\ConnectionManager.pdb
+G:\3course\Software\WindowsFormsAppStore\Bll\obj\Debug\Bll.csproj.CopyComplete
+G:\3course\Software\WindowsFormsAppStore\Bll\obj\Debug\Bll.dll
+G:\3course\Software\WindowsFormsAppStore\Bll\obj\Debug\Bll.pdb
